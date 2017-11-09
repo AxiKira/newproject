@@ -1,0 +1,19 @@
+commit 3968dfecad6780d8858400877e108f1c869e9d99
+Author: Haksanyi <haksanyi@gmail.com>
+Date:   Thu Nov 9 17:51:21 2017 +0100
+
+    Blavblabla
+    
+    git add .
+
+commit e7222c15bde384409f878fae5d6ffb7c2dc5f94e
+Author: Haksanyi <haksanyi@gmail.com>
+Date:   Thu Nov 9 17:46:50 2017 +0100
+
+    Masodik verzio
+
+commit f0ab69a9fa3c3cfea3783fdeda4d4a2bf213d878
+Author: Haksanyi <haksanyi@gmail.com>
+Date:   Thu Nov 9 17:43:00 2017 +0100
+
+    Elso verzio
